@@ -1,0 +1,17 @@
+.round {
+  &-1 {
+    border-radius: 2px;
+  }
+  &-2 {
+    border-radius: 5px;
+  }
+  &-3 {
+    border-radius: 10px;
+  }
+  &-4 {
+    border-radius: 15px;
+  }
+  &-5 {
+    border-radius: 20px;
+  }
+}

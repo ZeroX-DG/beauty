@@ -1,0 +1,13 @@
+{
+  "FRAMEWORK_NAME" : "beauty",
+  "JS_SOURCE" : "src",
+  "JS_DESTINATION" : "dist/",
+  "JS_MINIFICATION_SUFFIX" : ".min",
+  "SCSS_SOURCE" : "src",
+  "SCSS_DESTINATION" : "dist/",
+  "SCSS_MINIFICATION_SUFFIX" : ".min",
+  "FONT_SOURCE" : "src/fonts",
+  "FONT_DESTINATION" : "dist/fonts",
+  "FONT_EXTENSIONS" : [".ttf", ".woff", ".woff2", ".svg", ".eot"],
+  "OTHER_FILES" : ["test/**/*.html"]
+}
